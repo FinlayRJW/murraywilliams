@@ -63,16 +63,14 @@ params:
   ShowAllPagesInArchive: true
   ShowPageNums: true
   ShowToc: true
-  comments: false
-  images: [""]
 
   homeInfoParams:
     Title: "Explorers of the Normal"
     Content: >
       Welcome to the Murray Williams blog - a space of our random thoughts and adventures
 
-  assets:
-    disableHLJS: true
+    assets:
+      disableHLJS: true
 
 markup:
   goldmark:

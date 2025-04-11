@@ -11,10 +11,13 @@
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/demo/</loc>
+    <loc>http://localhost:1313/posts/finlay/demo/</loc>
     <lastmod>2025-04-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/series/demos/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/finlay/</loc>
     <lastmod>2025-04-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
@@ -38,8 +41,12 @@
     <loc>http://localhost:1313/tags/teste3/</loc>
     <lastmod>2025-04-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/annalise/</loc>
+  </url><url>
     <loc>http://localhost:1313/archives/</loc>
   </url><url>
     <loc>http://localhost:1313/search/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/travel/</loc>
   </url>
 </urlset>

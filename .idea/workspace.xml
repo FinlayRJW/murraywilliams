@@ -5,29 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd94c1a7-5fc5-4ee9-af47-553dda17aaaa" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/demo.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/finlay/demo.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hugo.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/hugo.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/archives/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/categories/cat1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/cat1/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/categories/cat1/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/cat1/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/categories/cat2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/cat2/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/categories/cat2/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/cat2/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/categories/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/posts/demo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/demo/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/posts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/posts/annalise/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/annalise/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/posts/finlay/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/finlay/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/posts/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/search/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/search/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/posts/travel/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/travel/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/series/demos/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/series/demos/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/series/demos/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/series/demos/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/series/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/series/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/series/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/series/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/test/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/test/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/test/index.xml" afterDir="false" />
@@ -52,29 +46,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Volumes/git/personal/murraywilliams&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.rainbow.brackets.indent&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "git-widget-placeholder": "main",
+    "go.import.settings.migrated": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Volumes/git/personal/murraywilliams/static",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.rainbow.brackets.indent",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static" />
+      <recent name="$PROJECT_DIR$/content/posts/travel" />
+      <recent name="$PROJECT_DIR$/content/posts/finlay" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static" />
+      <recent name="$PROJECT_DIR$/static/assets" />
       <recent name="$PROJECT_DIR$/content/posts/finlay" />
       <recent name="$PROJECT_DIR$/themes" />
     </key>
@@ -96,7 +97,7 @@
       <option name="presentableId" value="Default" />
       <updated>1724928803052</updated>
       <workItem from="1724928805852" duration="50000" />
-      <workItem from="1744375371787" duration="5176000" />
+      <workItem from="1744375371787" duration="8103000" />
     </task>
     <servers />
   </component>
