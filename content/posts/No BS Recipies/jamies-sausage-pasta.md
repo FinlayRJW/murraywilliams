@@ -14,7 +14,6 @@ ShowToc: true
 TocOpen: true
 ---
 
-
 | cook time | prep time | serves | calories (serving) |
 |-----------|-----------|-------|--------------------|
 | 20 mins   | 15 mins   | 6     | 502                |
