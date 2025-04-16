@@ -15,8 +15,8 @@ TocOpen: true
 ---
 
 | cook time | prep time | serves | calories (serving) |
-| --------- | --------- | ------ |--------------------|
-| 15 mins   | 5 mins    | 2      | 243                |
+| --------- | --------- |--------|--------------------|
+| 15 mins   | 5 mins    | 4      | 243                |
 
 ## Ingredients
 ### Required
